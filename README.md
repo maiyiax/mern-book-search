@@ -4,6 +4,9 @@
 
 Take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. 
 
+Test this app out at [Heroku](https://mysterious-plains-71304.herokuapp.com/)!
+
+
 ## User Story
 
 AS AN avid reader <br/>
