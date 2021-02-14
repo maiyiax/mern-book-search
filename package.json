@@ -17,8 +17,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/maiyiax/mern-book-search",
   "dependencies": {
-    "apollo-server-express": "^2.19.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
