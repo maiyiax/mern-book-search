@@ -1,17 +1,26 @@
 # Book Search Engine Starter Code
 
-## Purpose
-
-Take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. 
-
-Test this app out at [Heroku](https://mysterious-plains-71304.herokuapp.com/)!
-
-
 ## User Story
 
 AS AN avid reader <br/>
 I WANT to search for new books to read <br/>
 SO THAT I can keep a list of books to purchase <br/>
+
+## Purpose
+
+Take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. 
+
+Test this app out at [Heroku](https://boiling-temple-33152.herokuapp.com/)!
+
+**View of Homepage** <br>
+<br>
+![](client/public/search.PNG)<br>
+<br>
+
+**View of Saved Books!** <br>
+<br>
+![](client/public/saved.PNG)
+
 
 ## Contributors
 
